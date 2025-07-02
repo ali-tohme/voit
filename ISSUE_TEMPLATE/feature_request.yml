@@ -1,0 +1,19 @@
+name: Feature Request
+description: Suggest a new idea or improvement for Voit
+title: "[Feature] Short description here"
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing your idea! We love hearing from the community.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What's your suggestion?
+      placeholder: "Describe your idea or what you'd like to see improved."
+  - type: input
+    id: use_case
+    attributes:
+      label: Why would this be helpful for you or others?
+      placeholder: Briefly explain the use case.
