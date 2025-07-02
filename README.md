@@ -1,3 +1,6 @@
+[![Join the Waitlist](https://img.shields.io/badge/Join%20Waitlist-voit.io-blue?style=for-the-badge)](https://voit.io)
+
+
 # voit
 VOIT Design System
 
