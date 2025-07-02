@@ -71,7 +71,18 @@ Watch the teaser video to explore what's inside:
 
 ---
 
-> 💬 If you're on the waitlist and have early access, feel free to [open an issue](https://github.com/yourusername/voit/issues) for bugs or suggestions.
+## 🧪 Early Feedback
+
+If you're part of the Voit waitlist or testing group and you run into bugs or have suggestions:
+
+👉 [open an issue](https://github.com/voitui/voit/issues)
+
+Please include:
+- Your name and email address
+- Your license type (Solo, Freelancer, Team)
+- Figma version
+- Receipt/Invoice number
+- Clear steps to reproduce the issue
 
 ---
 
