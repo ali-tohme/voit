@@ -92,4 +92,4 @@ Follow along for updates, new drops, and tips:
 
 - [Twitter](https://x.com/voitui)
 - [Website](https://voit.io)
-- [LinkedIn](https://linkedin.com/in/voitui)
+- [LinkedIn](https://www.linkedin.com/company/voitui/)
