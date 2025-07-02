@@ -48,7 +48,7 @@ Voit is a premium Figma design system crafted for speed, clarity, and scalabilit
 ## 🛠 Support
 
 - 📬 Email: [hello@voit.io](mailto:hello@voit.io)
-- 📄 Submit an issue: [Open here](https://github.com/yourname/voit/issues)
+- 📄 Submit an issue: [Open here](https://github.com/voitui/voit/issues)
 - 🗣 Community: Coming soon on Discord
 
 ---
