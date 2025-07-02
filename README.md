@@ -71,6 +71,10 @@ Watch the teaser video to explore what's inside:
 
 ---
 
+> 💬 If you're on the waitlist and have early access, feel free to [open an issue](https://github.com/yourusername/voit/issues) for bugs or suggestions.
+
+---
+
 ## 🚀 Stay Updated
 
 Follow along for updates, new drops, and tips:
