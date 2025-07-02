@@ -39,7 +39,7 @@ Voit is a premium Figma design system crafted for speed, clarity, and scalabilit
 ## 📖 Documentation
 
 - [Installation Guide](./docs/installation.md)
-- [How to Import in Figma](./docs/figma-import.md)
+- [Design Documentaiton](https://voit.gitbook.io/voitdocs)
 - [FAQ](./docs/faq.md)
 - [Changelog](./changelog/)
 
