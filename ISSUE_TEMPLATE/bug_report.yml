@@ -1,0 +1,32 @@
+name: Bug Report
+description: Report a problem you're experiencing with Voit
+title: "[Bug] Short description here"
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please describe the issue clearly and include steps to reproduce it.
+  - type: input
+    id: plan
+    attributes:
+      label: Which license do you have?
+      placeholder: Solo / Freelancer / Team
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: "1. Open the file...\n2. Click on...\n3. See issue"
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+  - type: textarea
+    id: actual
+    attributes:
+      label: What actually happened?
+  - type: input
+    id: figma_version
+    attributes:
+      label: Figma Version
+      placeholder: e.g. 124.3.0
