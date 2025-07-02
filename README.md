@@ -6,7 +6,7 @@ VOIT Design System
 
 Voit is a premium Figma design system crafted for speed, clarity, and scalability. Built with structure and usability in mind, it empowers designers and teams to move faster without compromising on quality.
 
-> ⚠️ Voit is a paid product. This repository is for documentation, support, and changelogs only. The full design files are **not open source** and are not available here. We are working on an open-source code library. 
+> Voit is a paid product. This repository is for documentation, support, and changelogs only. The full design files are **not open source** and are not available here. We are working on an open-source code library. 
 
 ---
 
